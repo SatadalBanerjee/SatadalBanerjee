@@ -1,5 +1,9 @@
 ## Hi there 👋, I'm Satadal Banerjee <a href="https://SatadalBanerjee.github.io" rel="nofollow"><img align="center" src="https://cdn-icons-png.flaticon.com/512/726/726056.png" alt="" height="26" width="30" style="max-width: 100%;"></a>
 
+<h3 align="center" dir="auto">An independent and self-motivated person, with proven and experienced Backend Development Skills with hands-on experience in designing, developing.</h3>
+
+<img  style="margin:auto"  src="https://camo.githubusercontent.com/2b526261e88935a5671e4a20a23e230c06dc6e9192706fa9d40190bf0f58a050/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f66612f37622f34622f66613762346264633362326637336537343965356332633634366434616531332e676966"></img>
+
 ### Connect with me:
 <a href="https://www.linkedin.com/in/satadal-banerjee-382360233/" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="" height="30" width="40" style="max-width: 100%;"></a>
 
