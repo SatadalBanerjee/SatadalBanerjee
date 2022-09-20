@@ -1,4 +1,7 @@
-### Hi there 👋
+## Hi there 👋, I'm Satadal Banerjee <a href="https://SatadalBanerjee.github.io" rel="nofollow"><img align="center" src="https://cdn-icons-png.flaticon.com/512/726/726056.png" alt="" height="26" width="30" style="max-width: 100%;"></a>
+
+### Connect with me:
+<a href="https://www.linkedin.com/in/satadal-banerjee-382360233/" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="" height="30" width="40" style="max-width: 100%;"></a>
 
 <!--
 **SatadalBanerjee/SatadalBanerjee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
