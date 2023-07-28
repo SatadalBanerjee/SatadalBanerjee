@@ -20,7 +20,7 @@
 
 📫 How to reach me: satadalbanerjeebiz@gmail.com <br>
 
-⚡ Want to Know More About Experiance: [Check out My Resume](https://drive.google.com/file/d/1PjGimyn4ZNY1GifnPlLTyyK7PWT-JG0H/view?usp=share_link)<br>
+⚡ Want to Know More About Experiance: [Check out My Resume](https://drive.google.com/file/d/1a-4OOTVSn_kyMG6HyeEm5CDzGLyXGV6k/view?usp=drive_link)<br>
 
 Want to know more about me? [Check out My Portfolio](https://satadalbanerjee.github.io/)
 
